@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Infrastructure\\SolutionCleanCabloPlus.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Core\\SolutionCleanCabloPlus.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Core\\SolutionCleanCabloPlus.Core.csproj",
+        "projectName": "SolutionCleanCabloPlus.Core",
+        "projectPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Core\\SolutionCleanCabloPlus.Core.csproj",
+        "packagesPath": "C:\\Users\\HMA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Infrastructure\\SolutionCleanCabloPlus.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Infrastructure\\SolutionCleanCabloPlus.Infrastructure.csproj",
+        "projectName": "SolutionCleanCabloPlus.Infrastructure",
+        "projectPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Infrastructure\\SolutionCleanCabloPlus.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HMA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Core\\SolutionCleanCabloPlus.Core.csproj": {
+                "projectPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.Core\\SolutionCleanCabloPlus.Core.csproj"
+              },
+              "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj",
+        "projectName": "SolutionCleanCabloPlus.SharedKernel",
+        "projectPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\SolutionCleanCabloPlus.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\HMA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HMA\\Desktop\\Bureau\\Automne2020\\Génie_logiciel\\tp3 et projet\\SolutionCleanCabloPlus\\SolutionCleanCabloPlus.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AjouterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AjouterCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Authentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsulterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsulterCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsulterFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsulterInstallation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionComptes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestionInstallation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModifierClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModifierCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupprimerCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VoirFilm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

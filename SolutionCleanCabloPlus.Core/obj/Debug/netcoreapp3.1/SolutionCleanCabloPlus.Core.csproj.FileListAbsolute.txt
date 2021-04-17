@@ -1,0 +1,17 @@
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.csprojAssemblyReference.cache
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.AssemblyInfoInputs.cache
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.AssemblyInfo.cs
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.csproj.CoreCompileInputs.cache
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.SharedKernel.exe
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.exe
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.deps.json
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.runtimeconfig.json
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.runtimeconfig.dev.json
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.dll
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.pdb
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.SharedKernel.dll
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\bin\Debug\netcoreapp3.1\SolutionCleanCabloPlus.SharedKernel.pdb
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.csproj.CopyComplete
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.dll
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.pdb
+C:\Users\HMA\Desktop\Bureau\Automne2020\Génie_logiciel\tp3 et projet\SolutionCleanCabloPlus\SolutionCleanCabloPlus.Core\obj\Debug\netcoreapp3.1\SolutionCleanCabloPlus.Core.genruntimeconfig.cache
